@@ -14,7 +14,7 @@
 ![깃 설치 버전](test.PNG)
 
 **2. github repository**  
-레파지토리 주소: <https://github.com/ekekcl557/-project1206>
+레파지토리 주소: <https://github.com/ekekcl557/project1206>
 
 **3. git 사용해본 소감**   
 > 🙋‍♀️형상관리 도구 git을 사용하기 전과, 사용하고 나서 느낀점을 적어주세요.   
